@@ -7,3 +7,4 @@ while (num <= 30) {
     }
     num++;
 }
+cd 

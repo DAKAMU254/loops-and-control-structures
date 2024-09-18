@@ -25,3 +25,5 @@ function getGradeMessage(grade) {
 // Example usage:
 getGradeMessage('A'); // Excellent!
 getGradeMessage('C'); // Fair.
+getGradeMessage('E'); // Fair.
+
